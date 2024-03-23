@@ -1,0 +1,396 @@
+body{
+  margin: 0;
+  padding-bottom: 10000px;
+  
+}
+p{
+  margin: 0;
+  color: white;
+}
+
+.first-header{
+  
+  height: 61px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  
+  
+  
+  background-color: black;
+  margin-bottom: -20px;
+  position:fixed;
+  top: 0;
+ 
+  
+}
+.first-half{
+flex: 1;
+
+
+
+}
+.second-half{
+  flex: 1;
+  margin-right: 94px;
+}
+.second-half{
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  margin-top: 6px;
+
+}
+.kawasaki-text{
+  font-size: 27px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bolder;
+  margin-left: 80px;
+  margin-top: 7px;
+}
+
+.let-the-good-times-txt{
+  font-size: 9px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 200;
+  margin-left: 85px;
+  margin-top: 0px;
+  
+}
+.find-a-dealer-txt{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  margin-right: 30px;
+}
+.world-icon{
+  width: 17px;
+  margin-right: 20px;
+  
+}
+.search-icon{
+  width: 30px;
+  margin-left: 35px;
+}
+.europe-txt{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: 200;
+}
+
+.under-line{
+  margin: -172px;
+  color:#69be28 ;
+  font-size: 100px;
+  padding-top: 60px;
+  position: fixed;
+}
+
+
+
+.secont-header-main{
+  display: flex;
+  flex-direction: row;
+
+  margin-top: 130px;
+  background-color: rgb(0, 0, 0);
+  margin-top: 64px;
+  padding-bottom: 21px;
+  padding-top:20px ;
+  
+  
+}
+.secont-header{
+  display: flex;
+  flex-direction: row;
+  margin-left: 80px;
+  font-size: 16px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 400;
+
+}
+.services{
+  margin-right: 20px;
+}
+
+.back-ground-img{
+  background-image: url(background-imgs/24my-z7-hybrid-desktop-1920x960px.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 730px;
+  background-size: cover;
+}
+.center-txt{
+  display: flex;
+  flex-direction: row;
+}
+
+.featured-vehicels{
+  font-size: 45px;
+  font-family:Oswald, Arial, sans-serif;
+  font-weight: 600;
+  margin-top: 43px;
+  margin-left:79px ;
+  
+ 
+}
+
+.under-line-second{
+  margin-top: 71px;
+  color: #69be28;
+}
+
+.featured-vehicles-main-container{
+  margin-top: 60px;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+column-gap: 40px;
+row-gap: 40px;
+margin-left: 191px;
+
+
+}
+.bike-photo{
+  
+  
+}
+.bike-img-1{
+  width: 213px;
+}
+.new{
+  margin-left: 64px;
+  font-size: 19px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-top: 10px;
+  margin-bottom:13px ;
+}
+
+.bike-name-first1{
+  margin-left: -4px;
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+
+  
+}
+.bike-name-first2{
+  margin-left: 21px;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+
+  
+}
+.bike-name-first3{
+  margin-left: 1px;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+
+  
+}
+.bike-name-first4{
+  margin-left: 15px;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+
+  
+}
+.bike-name-first5{
+  margin-left: 43px;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+
+  
+}
+.bike-name-first6{
+  margin-left: 25px;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+
+  
+}
+
+.motorcyles-all{
+  font-size: 20px;
+  
+}
+
+
+
+
+.featured-vehicles-main-container2{
+  margin-top: 60px;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+column-gap: -21px;
+row-gap: 40px;
+margin-left: 84px;
+align-items: center;
+}
+.bike-img-2{
+ width: 194px;
+ margin-bottom: 12px;
+  
+}
+.bike-name-first11{
+  font-size: 23px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left:54px ;
+}
+.bike-name-first22{
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left:41px ;
+}
+.bike-name-first33{
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left:0px ;
+}
+.bike-name-first44{
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left:36px ;
+}
+.bike-name-first55{
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left:35px ;
+}
+.bike-name-first66{
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left:12px ;
+}
+.bike-name-first7{
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left:20px ;
+}
+.bike-name-first8{
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left:54px ;
+}
+.bike-name-first9{
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left:28px ;
+}
+.bike-name-first10{
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left:54px ;
+}
+.bike-name-first11{
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left:47px ;
+}
+.bike-name-first12{
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-left:57px ;
+}
+
+.bike-name-first111{
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-top: 10px;
+  margin-left: 72px;
+}
+.bike-name-first222{
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-top: 10px;
+  margin-left: 69px;
+}
+.bike-name-first333{
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-top: 10px;
+  margin-left: 47px;
+}
+
+.under-line-forth{
+  margin-left: 81px; 
+  margin-top: 28px;
+  color: rgb(115, 115, 115);
+  
+}
+
+.footer-main-container{
+  display: flex;
+      flex-direction: row;
+      justify-content: center;
+      width: 100%;
+      height: 296px;
+      background-color: black;
+}
+.youbube-logo{
+  color: rgb(95, 95, 95);
+}
+.footer-heading{
+  margin-right: 40px;
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  margin-top: 30px;
+  margin-bottom: 12px;
+}
+
+.footer-table{
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  margin-bottom: 17px;
+  color: gray;
+ 
+
+  
+}
+.last-underline{
+  margin-top: -16px;
+  color: gray;
+}
+.the-last-div-evva{
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  height: 120px;
+
+}
+.the-last-text{
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(170, 169, 169);
+  margin-top: -20px;
+
+  
+}
